@@ -9,7 +9,11 @@
 	B. Ruby
 
 
+<<<<<<< HEAD
+sangam
+=======
 
 jaya
 
 
+>>>>>>> c65104139e16c76b5ab13cad5bf3d0734087fa76
