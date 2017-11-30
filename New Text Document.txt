@@ -2,3 +2,8 @@
 
 	A: Git
 	B: Github
+
+
+2: List of languages
+	A. Go lang
+	B. Ruby
