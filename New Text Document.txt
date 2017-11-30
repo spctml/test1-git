@@ -7,7 +7,12 @@
 2: List of languages
 	A. Go lang
 	B. Ruby
+<<<<<<< HEAD
 	E. Lets go for lunch
 	F. Lets start again after lunch
 
 harish
+=======
+
+sangam
+>>>>>>> 1161aca67c7cdcb523f18bafd6f0fa96474f2bfb
